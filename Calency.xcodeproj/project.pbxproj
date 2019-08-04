@@ -193,13 +193,16 @@
 				TargetAttributes = {
 					467B046222D4708E00E2E68B = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 					};
 					467B047622D4709200E2E68B = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 						TestTargetID = 467B046222D4708E00E2E68B;
 					};
 					467B048122D4709200E2E68B = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 						TestTargetID = 467B046222D4708E00E2E68B;
 					};
 				};
@@ -441,7 +444,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = vatsal.Calency;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -459,7 +462,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = vatsal.Calency;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -479,7 +482,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = vatsal.CalencyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Calency.app/Calency";
 			};
@@ -500,7 +503,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = vatsal.CalencyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Calency.app/Calency";
 			};
@@ -520,7 +523,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = vatsal.CalencyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Calency;
 			};
@@ -540,7 +543,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = vatsal.CalencyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Calency;
 			};

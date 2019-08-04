@@ -194,7 +194,7 @@ class ViewController: UIViewController {
                     }
                 }
                 }
-                .resume()
+                task.resume()
             
             
             
